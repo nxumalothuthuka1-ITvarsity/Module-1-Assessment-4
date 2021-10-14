@@ -1,0 +1,28 @@
+h1{
+    color: #2296C7;
+    font-size: 40px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+h2{
+    color:green;
+    font-family:helvetica, sans-serif;
+    text-align:center;
+}
+table{
+    font-family: helvetical,sans-serif;
+    color: aqua;
+    background-color: deeppink;
+
+}
+
+td{
+    font-weight: 800;
+    text-decoration:inherit;
+    color:black;
+}
+
+th{
+    font-weight: 800;
+    color:blueviolet;
+}
